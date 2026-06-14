@@ -23,7 +23,7 @@ Matplotlib---learning
 - [x] 01 - Line Plots
 - [x] 02 - Bar Charts
 - [x] 03 - Pie Charts
-- [ ] 04 - Stack Plots
+- [x] 04 - Stack Plots
 - [ ] 05 - Fill Areas
 - [ ] 06 - Histograms
 - [ ] 07 - Scatter Plots
